@@ -21,7 +21,7 @@
 ## 📸 Tangkapan Layar Aplikasi
 
 ### Tampilan Login
-![Login Screen](screenshots/Gambar WhatsApp 2025-06-13 pukul 22.44.39_300289a4.png)
+![Login Screen](screenshots/login.png)
 
 ### Home – Daftar Cuaca
 ![Home Screen](screenshots/home.png)
