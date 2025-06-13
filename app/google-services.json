@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "850592416001",
+    "project_id": "praktikum8-99453",
+    "storage_bucket": "praktikum8-99453.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850592416001:android:263015d59718ff4763db00",
+        "android_client_info": {
+          "package_name": "com.example.latihan_praktikum_10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850592416001-lg9vod8vmog9tse0o262tadfg6cpnhu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.latihan_praktikum_10",
+            "certificate_hash": "c23a001ce2bb56bceabbb41b595c9ce35f14668d"
+          }
+        },
+        {
+          "client_id": "850592416001-oqf0r1kveclja61qtn2c9m242ckthpj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAvorgDXeX-aKme5Gm5UyDY4qs2jS3OJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850592416001-oqf0r1kveclja61qtn2c9m242ckthpj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850592416001:android:a3102b9201c4d06b63db00",
+        "android_client_info": {
+          "package_name": "com.example.latihan_praktikum_8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850592416001-ag7ie61ivehjjejr423bl5qjoatg0nsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.latihan_praktikum_8",
+            "certificate_hash": "c23a001ce2bb56bceabbb41b595c9ce35f14668d"
+          }
+        },
+        {
+          "client_id": "850592416001-oqf0r1kveclja61qtn2c9m242ckthpj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAvorgDXeX-aKme5Gm5UyDY4qs2jS3OJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850592416001-oqf0r1kveclja61qtn2c9m242ckthpj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850592416001:android:4fefbfdea9f8e42b63db00",
+        "android_client_info": {
+          "package_name": "com.example.latihan_praktikum_9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850592416001-uhb3uaqs3g5nksebeqenf2thdudh4hvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.latihan_praktikum_9",
+            "certificate_hash": "c23a001ce2bb56bceabbb41b595c9ce35f14668d"
+          }
+        },
+        {
+          "client_id": "850592416001-oqf0r1kveclja61qtn2c9m242ckthpj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAvorgDXeX-aKme5Gm5UyDY4qs2jS3OJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850592416001-oqf0r1kveclja61qtn2c9m242ckthpj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="16dp"
+    tools:context=".persentation.ui.CustomFragment">
+
+    <TextView
+        android:id="@+id/titleMiyuki"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Miyuki"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#7B1FA2"
+        android:layout_gravity="start|top"
+        android:padding="8dp"
+        android:fontFamily="sans-serif-medium" />
+
+    <!-- Konten utama -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/suhuTextView"
+            android:text="Suhu Baterai: --°C"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btnNotif"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="32dp"
+            android:backgroundTint="#7B1FA2"
+            android:text="Cek Apakah Aman"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:drawablePadding="12dp"
+            android:paddingStart="24dp"
+            android:paddingEnd="24dp"
+            android:fontFamily="sans-serif-medium"
+            android:elevation="4dp" />
+
+    </LinearLayout>
+</FrameLayout>
