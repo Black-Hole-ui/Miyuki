@@ -21,31 +21,31 @@
 ## 📸 Tangkapan Layar Aplikasi
 
 ### Tampilan Login
-![Login Screen](screenshots/login.png)
+![Login Screen](screenshots/login.jpg)
 
 ### Home – Daftar Cuaca
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/home.jpg)
 
 ### Konten – Cari Cuaca
-![Search Screen](screenshots/search.png)
+![Search Screen](screenshots/search.jpg)
 
 ### Home Setelah Pencarian
-![Weather Result](screenshots/weather_saved.png)
+![Weather Result](screenshots/weather_saved.jpg)
 
 ### Suhu Baterai – Normal
-![Battery Safe](screenshots/battery_safe.png)
+![Battery Safe](screenshots/battery_safe.jpg)
 
 ### Suhu Baterai – Notifikasi
-![Battery Notification](screenshots/battery_notif.png)
+![Battery Notification](screenshots/battery_notif.jpg)
 
 ### Setting – Mode Terang
-![Settings Light](screenshots/setting_light.png)
+![Settings Light](screenshots/setting_light.jpg)
 
 ### Setting – Mode Gelap
-![Settings Dark](screenshots/setting_dark.png)
+![Settings Dark](screenshots/setting_dark.jpg)
 
 ### Mode Gelap – Login
-![Login Dark](screenshots/login_dark.png)
+![Login Dark](screenshots/login_dark.jpg)
 
 ---
 
